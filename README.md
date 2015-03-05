@@ -1,6 +1,8 @@
 Simple Kata for learning Java 8 Streams and Lambdas
 =============
 
+Recommended Reading: <http://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html>
+
 Class `ListTransformer` accepts a `List` as an argument and has three methods:
 ```Java
 	/**
